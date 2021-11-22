@@ -34,7 +34,11 @@
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-XXX
+The project consists of a single scene exported as a Unity package. The package contains two directories:
+* PhotonOVRAvatar - Code related to the template
+* O8C - General purpose library code.
+
+To get started, import the package and open the PhotonOVRAvatar scene.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -44,7 +48,9 @@ XXX
 
 This project depends on a set of packages not included in the repository.
 
-* [PUN2](https://nextjs.org/)
+* PUN2
+* Voice for PUN2
+* Oculus Integration
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
